@@ -25,13 +25,7 @@ JavaScript (jQuery, Owl Carousel, Fancybox)
 Custom design assets and icons
 
 🚀 Getting Started
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/mishra-charity-website.git
-Open index.html in your browser to view the homepage.
 
 📸 Preview
 ![image](https://github.com/user-attachments/assets/699cfc3c-baf6-4520-83e9-2281f587fd92)
